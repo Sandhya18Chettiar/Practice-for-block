@@ -1,3 +1,4 @@
 Practicing git
 Code 1
 More code for commit 3
+#Adding code for conflict in remote.
